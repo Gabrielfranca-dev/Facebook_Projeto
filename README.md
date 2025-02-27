@@ -2,7 +2,7 @@
 
 Este é um projeto que replica a página inicial do Facebook, focado na versão para desktop. A página está hospedada no GitHub Pages e pode ser acessada pelo seguinte link:
 
-🔗 [Acessar a página](https://gabriel-jry.github.io/Clone-P-gina-Facebook/)
+🔗 [Acessar a página](https://gabrielfranca-dev.github.io/Facebook_Projeto/)
 
 ## 📌 Características
 - Layout similar à versão desktop do Facebook.
@@ -16,7 +16,7 @@ Este é um projeto que replica a página inicial do Facebook, focado na versão 
 ## 📥 Como executar localmente
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/gabriel-jry/Clone-P-gina-Facebook.git
+   git clone https://github.com/gabrielfranca-dev/Facebook_Projeto.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
