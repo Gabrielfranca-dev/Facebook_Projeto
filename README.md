@@ -2,7 +2,7 @@
 
 Este é um projeto que replica a página inicial do Facebook, focado na versão para desktop. A página está hospedada no GitHub Pages e pode ser acessada pelo seguinte link:
 
-🔗 [Acessar a página](https://gabrielfranca-dev.github.io/Facebook_Projeto/)
+🔗 [Acessar a página](https://facebook-projeto.vercel.app/)
 
 ## 📌 Características
 - Layout similar à versão desktop do Facebook.
